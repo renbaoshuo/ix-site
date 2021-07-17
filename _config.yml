@@ -1,0 +1,13 @@
+url: "https://ix.baoshuo.ren"
+
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+github:
+  private: true
