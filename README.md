@@ -10,6 +10,12 @@ Baoshuo Internet Exchange (BSIX) is operated by [Baoshuo](https://baoshuo.ren).
 
 This Internet Exchange only supports IPv6.
 
+## 参与者 Members
+
+| 参与者 |   ASN  | 加入时间 | 方式 |
+| ------ | ------ | -------- | ---- |
+| Baoshuo Network | 141776 | 2021-07-19 | Physical |
+
 ## 位置 Locations
 
 + 中国石家庄 Shijiazhuang, CN `2406:840:e08f:10::/64`
